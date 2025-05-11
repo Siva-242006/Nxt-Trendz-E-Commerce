@@ -4,7 +4,7 @@ This is a feature-rich React-based e-commerce application. It demonstrates advan
 
 ---
 
-Check Out Thi Project: https://siva-242006.github.io/Nxt-Trendz-E-Commerce/#/
+Check Out This Project using below Test Credentials: https://siva-242006.github.io/Nxt-Trendz-E-Commerce/#/
 
 ## 🚀 Features
 
