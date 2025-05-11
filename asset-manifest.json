@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nxt-trendz-ecommerce/static/css/main.00de1e3f.chunk.css",
+    "main.js": "/nxt-trendz-ecommerce/static/js/main.93a431d6.chunk.js",
+    "main.js.map": "/nxt-trendz-ecommerce/static/js/main.93a431d6.chunk.js.map",
+    "runtime-main.js": "/nxt-trendz-ecommerce/static/js/runtime-main.af0fdd38.js",
+    "runtime-main.js.map": "/nxt-trendz-ecommerce/static/js/runtime-main.af0fdd38.js.map",
+    "static/js/2.375e28fc.chunk.js": "/nxt-trendz-ecommerce/static/js/2.375e28fc.chunk.js",
+    "static/js/2.375e28fc.chunk.js.map": "/nxt-trendz-ecommerce/static/js/2.375e28fc.chunk.js.map",
+    "index.html": "/nxt-trendz-ecommerce/index.html",
+    "static/css/main.00de1e3f.chunk.css.map": "/nxt-trendz-ecommerce/static/css/main.00de1e3f.chunk.css.map",
+    "static/js/2.375e28fc.chunk.js.LICENSE.txt": "/nxt-trendz-ecommerce/static/js/2.375e28fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af0fdd38.js",
+    "static/js/2.375e28fc.chunk.js",
+    "static/css/main.00de1e3f.chunk.css",
+    "static/js/main.93a431d6.chunk.js"
+  ]
+}
