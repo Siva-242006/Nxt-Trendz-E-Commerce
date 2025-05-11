@@ -1,0 +1,54 @@
+/* Write your CSS here */
+
+.cart-summary-container {
+  display: flex;
+  flex-direction: column;
+  text-align: end;
+  margin-bottom: 10%;
+  font-family: "Roboto";
+}
+
+.cart-summary-container > h1 {
+  color: #616e7c;
+  font-size: 15px;
+}
+
+.cart-summary-container > h1 > span {
+  color: #171f46;
+}
+
+.cart-summary-container > p {
+  font-size: 12px;
+  color: #616e7c;
+  margin: 0px;
+  margin-bottom: 10px;
+}
+
+.cart-summary-container > button {
+  background-color: #0b69ff;
+  color: white;
+  border: 0px;
+  padding: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+@media screen and (min-width:768px){
+  .cart-summary-container{
+    align-items: flex-end;
+  }
+
+  .cart-summary-container > h1{
+    font-size: 25px;
+  }
+
+  .cart-summary-container > p{
+    font-size: 18px;
+  }
+
+  .cart-summary-container > button {
+    width: 235px;
+    font-size: 18px;
+    padding: 12px;
+  }
+}
